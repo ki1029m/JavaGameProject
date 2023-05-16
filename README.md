@@ -7,5 +7,5 @@
 
 
 
-Source 파일 중 Game.java파일을 실행하면 동작.
+Source 파일 중 Game.java파일을 실행하면 동작
 Eclipse 환경에서 개발됨 
