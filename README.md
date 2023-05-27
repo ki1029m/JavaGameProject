@@ -8,6 +8,9 @@ C++로 간단한 움직임을 구현했던 비행기 게임에서 패턴과 이�
 <h1>플레이화면</h1>
 <img src=https://github.com/ki1029m/JavaGameProject/assets/48575838/df3655af-290f-4f08-9e9b-f9c1c43ef9ef>
 
+<br/><br/> 
+
+
 <h1>개발환경</h1>
 개발 언어 : JAVA <br/><br/>
 개발 툴 : Eclipse <br/><br/>
