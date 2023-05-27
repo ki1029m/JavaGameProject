@@ -16,13 +16,12 @@ Game.java파일을 실행 시 동작합니다 <br/> <br/>
 
 <h1>클래스</h1>
 
-
+game_frame.java <br/> <- 주요 코드 
+실제 게임 관련 동작을 처리하는 클래스 (동작, 상호작용, 클리어 판정, 이미지 등) <br/> <br/> 
 game.java  <br/> 
 게임 시작화면을 생성하는 메인 함수 <br/> <br/> 
 Start.java <br/> 
 시작화면 관련 클래스 <br/> <br/> 
-game_frame.java <br/> 
-실제 게임 관련 동작을 처리하는 클래스 (동작, 상호작용, 클리어 판정, 이미지 등) <br/> <br/> 
 score_frame.java <br/> 
 게임 종료 후 점수 화면 및 관련 동작을 처리하는 클래스 (파일 저장 및 읽기 방식) <br/> <br/> 
 checkscore_frame.java  <br/> 
