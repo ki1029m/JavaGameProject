@@ -5,6 +5,10 @@ C++로 간단한 움직임을 구현했던 비행기 게임에서 패턴과 이�
 
 <br/><br/>
 
+<h1>플레이화면</h1>
+![플레이화면](https://github.com/ki1029m/JavaGameProject/assets/48575838/13de391a-e461-4651-b723-33ff5b842a35)
+
+
 <h1>개발환경</h1>
 개발 언어 : JAVA <br/><br/>
 개발 툴 : Eclipse <br/><br/>
@@ -36,4 +40,9 @@ Enemy1.java <br/>
 Enemy2.java <br/> 
 Enemy3.java <br/> 
 적 종류별 정보 클래스들 <br/> 
+
+![클래스다이어그램](https://github.com/ki1029m/JavaGameProject/assets/48575838/f9fc64f8-2c4b-4224-a079-61ca3003795d)
+
+![클래스다이어그램 상세](https://github.com/ki1029m/JavaGameProject/assets/48575838/e37f997e-c3e8-451c-a664-0910a662a874)
+
 
